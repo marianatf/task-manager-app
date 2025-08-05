@@ -1,0 +1,42 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TaskItem > should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="py-2 group"
+  >
+    <div
+      class="flex items-center justify-between"
+    >
+      <div
+        class="flex items-center gap-3 flex-grow cursor-pointer"
+      >
+        <input
+          class="w-5 h-5 accent-black"
+          id=""
+          type="checkbox"
+        />
+        <div
+          class="flex flex-col"
+        >
+          <div
+            class="font-semibold text-gray-900"
+          />
+        </div>
+      </div>
+      <div
+        class="flex items-center gap-2 ml-4"
+      >
+        <span
+          class="w-4 h-4 rounded-full bg-red-200"
+        />
+        <button
+          class="flex items-center justify-center text-gray-400 hover:text-red-500 text-xl opacity-0 group-hover:opacity-100 transition-opacity"
+        >
+          ×
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

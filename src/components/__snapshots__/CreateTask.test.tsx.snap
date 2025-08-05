@@ -1,0 +1,29 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CreateTask > should match snapshot 1`] = `
+<DocumentFragment>
+  <form
+    class="flex flex-col gap-3 m-4"
+  >
+    <input
+      class="rounded-lg px-4 py-2 border border-gray-300 focus:outline-none focus:ring-2 focus:ring-black"
+      placeholder="Add a task"
+      value=""
+    />
+  </form>
+</DocumentFragment>
+`;
+
+exports[`Header > should match snapshot 1`] = `
+<DocumentFragment>
+  <form
+    class="flex flex-col gap-3 m-4"
+  >
+    <input
+      class="rounded-lg px-4 py-2 border border-gray-300 focus:outline-none focus:ring-2 focus:ring-black"
+      placeholder="Add a task"
+      value=""
+    />
+  </form>
+</DocumentFragment>
+`;
