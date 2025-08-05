@@ -1,14 +1,14 @@
 # Task Manager App
 
-## Initial thinking
+Initial thinking:
 
 - Array of tasks with title, description and priority
 
-## We want
+ We want:
 
 - To create, view, complete and remove tasks
 
-## Code thinking
+Code thinking:
 
 - [x] Initialize project with Vite
 - [x] Add linter for TS + React
@@ -24,7 +24,7 @@
 - [x] Persist tasks across web app with localStorage
 - [x] Add testing env with Vitest and React Testing Library
 
-## Reflections
+Reflections:
 
 1. Why use Tailwind CSS instead?
     
@@ -36,10 +36,10 @@
 
 Runs the app in the development mode
 
-##  `npm test`
+###  `npm test`
 
 Runs tests
 
-##  `npm run coverage`
+###  `npm run coverage`
 
 Runs tests with coverage
